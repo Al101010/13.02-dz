@@ -1,7 +1,3 @@
-// // TODO: write your code here
-// import sum from './basic';
-// console.log(sum([1, 2]));
-
 let arr = document.querySelectorAll('.field');
 
 function intervalGoblin() {
