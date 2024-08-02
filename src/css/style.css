@@ -1,0 +1,27 @@
+.card {
+  width: 800px;
+  margin-bottom: 0;
+}
+
+.field-game {
+  width: 800px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.field {
+  width: 150px;
+  height: 150px;
+  margin: 0 15px 30px;
+  background: green;
+  border-radius: 0%;
+}
+
+.field_goblin {
+  background-image: url(../imj/goblin.png);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-color: green;
+}
