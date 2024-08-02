@@ -7,6 +7,7 @@ DOM, Перемещение элемента
     Alex@38-PK MINGW64 /c/_GitHub_/13.02-dz (main)
     $ npm install // появился каталог node_modules
     
+    
     npm start - запуск сервер
 
 
